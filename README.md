@@ -66,10 +66,12 @@ Where ``landscape.jpg`` is the input file which is to be classified.
 
 The classifier will output the predictions for each data set. A prediction score between ``.8`` to ``1`` is considered to be optimal.
 
+<img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/cli-output.png"/>
+
 <br/>
 
 ## Results
-<img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/result.png" style="border: 1px solid lightgrey;"/>
+<img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/result.png"/>
 
 <br/>
 
