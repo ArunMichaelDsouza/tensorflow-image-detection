@@ -21,16 +21,24 @@ In order to start the transfer learning process, a folder named ``training_datas
 Create the ``training_dataset`` folder and add the images for all the data sets in the following manner -
 
 ```javascript
-root
+/
 |
----- training_dataset
+|
+---- /training_dataset
 |    |
-|---- arun
 |    |
-|    ---- arun1.jpg
-|         arun2.jpg
+|    ---- /arun
+|    |    arun1.jpg
+|    |    arun2.jpg
+|    |    ...
+|    |
+|    |
+|    ---- /erica
+|         erica1.jpg
+|         erica2.jpg
 |         ...
 |
+|     
 ```
 This enables classification of images between the ``arun`` and ``erica`` data sets.
 
