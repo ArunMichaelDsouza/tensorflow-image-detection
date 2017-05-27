@@ -6,6 +6,7 @@ __pycache__/
 training_dataset
 inception
 tf_files
+input
 
 # C extensions
 *.so
