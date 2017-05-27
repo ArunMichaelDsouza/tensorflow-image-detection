@@ -24,16 +24,16 @@ Create the ``training_dataset`` folder and add the images for all the data sets 
 root
 |
 ---- training_dataset
-|     |
+|    |
 |	 ---- arun
-|	 |     arun1.jpg
-|	 |     arun2.jpg
-|	 |     ...
+|	 |    arun1.jpg
+|	 |    arun2.jpg
+|	 |    ...
 |	 |
-|     ---- erica
-|          erica1.jpg
-|          erica2.jpg
-|          ...
+|    ---- erica
+|         erica1.jpg
+|         erica2.jpg
+|         ...
 |
 ```
 This enables classification of images between the ``arun`` and ``erica`` data sets.
