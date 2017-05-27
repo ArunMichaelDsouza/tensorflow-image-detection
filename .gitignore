@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+training_dataset
+
 # C extensions
 *.so
 
