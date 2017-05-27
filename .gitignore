@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 training_dataset
+inception
+tf_files
 
 # C extensions
 *.so
