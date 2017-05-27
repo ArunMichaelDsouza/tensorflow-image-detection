@@ -9,7 +9,7 @@ This is a generic setup and can be used to classify almost any kind of image. I 
 <br/>
 
 ## Installation
-Make sure you have [Pyhton](https://www.python.org/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
+Make sure you have [Python](https://www.python.org/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
 
 <br/>
 
