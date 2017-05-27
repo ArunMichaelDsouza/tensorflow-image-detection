@@ -59,12 +59,12 @@ The ``training summaries``, ``retrained graphs`` and ``retrained labels`` will b
 ### Classify objects
 
 ```javascript
-python classify.py landscape.jpg
+python classify.py image.jpg
 ```
 
-Where ``landscape.jpg`` is the input file which is to be classified. 
+Where ``image.jpg`` is the input file which is to be classified. 
 
-The classifier will output the predictions for each data set. A prediction score between ``.8`` to ``1`` is considered to be optimal.
+The classifier will output the predictions for each data set. A prediction score between ``0.8`` to ``1`` is considered to be optimal.
 
 <img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/cli-output.png"/>
 
