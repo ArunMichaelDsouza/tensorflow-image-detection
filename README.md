@@ -26,13 +26,9 @@ root
 ---- training_dataset
 |    |
 |---- arun
-||    arun1.jpg
-||    arun2.jpg
-||    ...
-||
-|    ---- erica
-|         erica1.jpg
-|         erica2.jpg
+|    |
+|    ---- arun1.jpg
+|         arun2.jpg
 |         ...
 |
 ```
