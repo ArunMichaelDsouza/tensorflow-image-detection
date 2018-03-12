@@ -9,7 +9,7 @@ This is a generic setup and can be used to classify almost any kind of image. I 
 <br/>
 
 ## Installation
-Make sure you have [Python](https://www.python.org/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
+Make sure you have [Python 3](https://www.python.org/downloads/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
 
 <br/>
 
@@ -59,12 +59,12 @@ The ``training summaries``, ``retrained graphs`` and ``retrained labels`` will b
 ### Classify objects
 
 ```javascript
-python classify.py image.jpg
+python3 classify.py
 ```
 
-Where ``image.jpg`` is the input file which is to be classified. 
+This opens up the file dialog using which you can select your input file.
 
-The classifier will output the predictions for each data set. A prediction score between ``0.8`` to ``1`` is considered to be optimal.
+Once the input file is selected, the classifier will output the predictions for each data set. A prediction score between ``0.8`` to ``1`` is considered to be optimal.
 
 <img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/cli-output.png"/>
 
