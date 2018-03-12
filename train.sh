@@ -1,4 +1,4 @@
-python retrain.py \
+python3 retrain.py \
   --bottleneck_dir=tf_files/bottlenecks \
   --how_many_training_steps=500 \
   --model_dir=inception \
