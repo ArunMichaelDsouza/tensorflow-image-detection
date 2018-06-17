@@ -1,3 +1,5 @@
+<img src="https://github.com/ArunMichaelDsouza/tensorflow-image-detection/raw/master/icon.png" width="300" height="auto" alt="tensorflow-image-detection icon"/>
+
 # tensorflow-image-detection
 A generic image detection program that uses Google's Machine Learning library, [Tensorflow](https://www.tensorflow.org/) and a pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
 
@@ -74,6 +76,13 @@ Once the input file is selected, the classifier will output the predictions for 
 
 ## Results
 <img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/result.png"/>
+
+<br/>
+
+## Contributors
+
+| [<img src="https://avatars3.githubusercontent.com/u/4924614" width="100px;"/><br /><sub><b>Arun Michael Dsouza</b></sub>](https://github.com/ArunMichaelDsouza)<br />| [<img src="https://avatars3.githubusercontent.com/u/11679543" width="100px;"/><br /><sub><b>Royal Bhati</b></sub>](https://github.com/royalbhati)<br />|
+| :---: | :---: |
 
 <br/>
 
