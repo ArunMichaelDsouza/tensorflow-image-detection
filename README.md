@@ -75,7 +75,7 @@ Once the input file is selected, the classifier will output the predictions for 
 <br/>
 
 ## Results
-<img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/result.png" style="border: 1px solid #cecece;"/>
+<img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/result.png"/>
 
 <br/>
 
