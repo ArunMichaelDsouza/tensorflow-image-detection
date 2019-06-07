@@ -29,20 +29,20 @@ Create the ``training_dataset`` folder and add the images for all the data sets 
 ---- /training_dataset
 |    |
 |    |
-|    ---- /arun
-|    |    arun1.jpg
-|    |    arun2.jpg
+|    ---- /cat
+|    |    cat1.jpg
+|    |    cat2.jpg
 |    |    ...
 |    |
 |    |
-|    ---- /erica
-|         erica1.jpg
-|         erica2.jpg
+|    ---- /dog
+|         dog1.jpg
+|         dog2.jpg
 |         ...
 |
 |     
 ```
-This enables classification of images between the ``arun`` and ``erica`` data sets.
+This enables classification of images between the ``cat`` and ``dog`` data sets.
 
 > Make sure to include multiple variants of the subject (side profiles, zoomed in images etc.), the more the images, the better is the result.
 
