@@ -42,7 +42,7 @@ Create the ``training_dataset`` folder and add the images for all the data sets 
 |
 |     
 ```
-This enables classification of images between the ``cat`` and ``dog`` data sets.
+This enables classification of images between the ``cats`` and ``dogs`` data sets.
 
 > Make sure to include multiple variants of the subject (side profiles, zoomed in images etc.), the more the images, the better is the result.
 
